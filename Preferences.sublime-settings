@@ -1,7 +1,9 @@
 {
+	"color_scheme": "Packages/User/Solarized (light).tmTheme",
 	"ignored_packages":
 	[
-	],
+	]
+,	"theme": "Sodarized Light 3.sublime-theme",
 	"vintage_ctrl_keys": true,
 	"vintage_start_in_command_mode": true
 }
