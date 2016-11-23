@@ -1,4 +1,9 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"IMESupport"
+	],
 	"installed_packages":
 	[
 		"AutoFileName",
@@ -6,6 +11,7 @@
 		"Emmet",
 		"HTML5",
 		"IMESupport",
+		"Package Control",
 		"Sublime Tweet",
 		"Theme - Flatland",
 		"Theme - Piatto",
